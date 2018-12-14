@@ -1,0 +1,11 @@
+.social-card-header{
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 96px;
+}
+rand-img {
+    width: 100%;
+}
